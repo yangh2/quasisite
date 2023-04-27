@@ -23,3 +23,4 @@ Type "make".
 * Usage
 Type "./test" and then "./viewsites.py"
 
+[[./qcs.png]]

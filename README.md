@@ -1,13 +1,13 @@
 
 # Table of Contents
 
-1.  [Purpose](#org2096634)
-2.  [Compilation](#org8e4cd20)
-3.  [Usage](#org1db6a11)
+1.  [Purpose](#org27c6125)
+2.  [Compilation](#org4f17fc8)
+3.  [Usage](#org2f4073b)
 
 
 
-<a id="org2096634"></a>
+<a id="org27c6125"></a>
 
 # Purpose
 
@@ -15,16 +15,18 @@ To generate a 2D Penrose tiling  from a high-dimension projection
 method.
 
 
-<a id="org8e4cd20"></a>
+<a id="org4f17fc8"></a>
 
 # Compilation
 
 Type "make".
 
 
-<a id="org1db6a11"></a>
+<a id="org2f4073b"></a>
 
 # Usage
 
 Type "./test" and then "./viewsites.py"
+
+![img](./qcs.png)
 
